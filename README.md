@@ -162,7 +162,7 @@ bash install.sh
 ~~~
 mkdir v2ray-agent  &&  \
 cd v2ray-agent && \
-curl https://raw.githubusercontent.com/haig233/v2ray-sspanel-v3-mod_Uim-plugin/master/install.sh -o installcn.sh && \
+curl https://raw.githubusercontent.com/Starktomy/v2ray-sspanel-v3-mod_Uim-plugin/master/install.sh -o installcn.sh && \
 chmod +x installcn.sh && \
 bash installcn.sh
 ~~~
