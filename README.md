@@ -159,6 +159,13 @@ chmod +x install.sh && \
 bash install.sh
 ~~~
 
+~~~
+mkdir v2ray-agent  &&  \
+cd v2ray-agent && \
+curl https://raw.githubusercontent.com/haig233/v2ray-sspanel-v3-mod_Uim-plugin/master/install.sh -o installcn.sh && \
+chmod +x installcn.sh && \
+bash installcn.sh
+~~~
 ##### 安装caddy
 
 一键安装 caddy 和cf ddns tls插件
